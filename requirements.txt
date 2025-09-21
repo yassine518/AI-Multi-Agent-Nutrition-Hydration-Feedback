@@ -1,0 +1,13 @@
+langchain==0.1.12
+openai==1.14.1
+llama-index
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+streamlit==1.31.1
+typer==0.9.0
+SQLAlchemy==2.0.27
+sqlite-utils==3.35
+apscheduler==3.10.4
+loguru==0.7.2
+langchain_groq
+python-dotenv
